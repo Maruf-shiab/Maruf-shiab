@@ -119,23 +119,12 @@
 
 ---
 
-## 📈 Profile Views
-
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=Maruf-shiab&icon=5&color=12" />
-</p>
 
 ---
 
-## ✨ Fun Add-on
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maruf-shiab&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=120&section=footer"/>
 </p>
----
 
 <!-- Optional Snake Animation -->
 <!-- Generate from: https://github.com/Platane/snk -->
