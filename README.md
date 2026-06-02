@@ -4,35 +4,20 @@
 
 <div align="center">
 
-<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,16,20,24,30&height=220&section=header&text=MARUF%20SHIAB&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡%20AI%2FML%20Engineer%20%7C%20Research%20Learner%20%7C%203rd%20Year%20CSE%20⚡&descAlignY=58&descSize=16" width="100%"/>
 
 <br/>
 
-<!-- Visitor Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Maruf-shiab&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Maruf-shiab?label=Followers&style=for-the-badge&color=FF1493&logo=github&logoColor=white" alt="Followers"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-</div>
-
-<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
-
-<div align="center">
 
 <p>
   <img src="https://img.shields.io/badge/📍_Location-Dhaka,_Bangladesh-8A2BE2?style=flat-square&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/🎓_Year-3rd_Year_CSE-FF1493?style=flat-square&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/🔬_Focus-AI%2FML_%26_Research-00D9FF?style=flat-square&labelColor=0D1117"/>
 </p>
-
-<a href="https://github.com/Maruf-shiab">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Passionate+about+Artificial+Intelligence+%F0%9F%A4%96;Exploring+Machine+Learning+%26+Research+%F0%9F%94%AC;Building+Projects+with+Real-World+Impact+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%93%9A;Turning+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG"/>
-</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -75,15 +60,33 @@ class MarufShiab:
 
 <br/>
 
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.facebook.com/maruf.shiab" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/maruf_shiab_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 <div align="center">
 
 ## ⚡ Tech Stack & Expertise
-
-<a href="https://github.com/Maruf-shiab">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=35&lines=💻+Technologies+I+Work+With;🚀+Tools+That+Power+My+Work;🧠+Always+Evolving+My+Stack" alt="Tech Header"/>
-</a>
 
 </div>
 
@@ -109,13 +112,13 @@ class MarufShiab:
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda&theme=dark" alt="AI/ML"/>
 </a>
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="50" height="50"/>
-</p>
+<br/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="50" height="50"/>
 
 </div>
 
@@ -157,7 +160,6 @@ class MarufShiab:
 
 <br/>
 
-<!-- Proficiency Table -->
 <div align="center">
 
 ### 「 📊 Proficiency Levels 」
@@ -171,18 +173,15 @@ class MarufShiab:
 | **Cloud** | AWS · GCP · Firebase | ![](https://geps.dev/progress/65) |
 | **Data Science** | NumPy · Pandas · Matplotlib · Plotly | ![](https://geps.dev/progress/80) |
 
-</div>
-
 <br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <p>
   <img src="https://img.shields.io/badge/Total_Technologies-50+-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/AI%2FML_Frameworks-10+-FF1493?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Status-Actively_Learning-00FF88?style=for-the-badge&labelColor=0D1117"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 <br/>
@@ -192,11 +191,7 @@ class MarufShiab:
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=🎯+My+Top+Projects;💡+Built+with+Passion+%26+Purpose;🔥+Ideas+into+Reality" alt="Projects Header"/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 </div>
 
 <table align="center" border="0" cellpadding="20">
@@ -204,7 +199,7 @@ class MarufShiab:
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🤖_AI%2FML_Project-8A2BE2?style=for-the-badge&logoColor=white" alt="AI Project"/>
+  <img src="https://img.shields.io/badge/🤖_AI%2FML_PROJECT-8A2BE2?style=for-the-badge&logoColor=white" alt="AI Project"/>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="Tech"/>
 </div>
@@ -228,7 +223,7 @@ class MarufShiab:
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🔬_Research_Project-FF1493?style=for-the-badge&logoColor=white" alt="Research Project"/>
+  <img src="https://img.shields.io/badge/🔬_RESEARCH_PROJECT-FF1493?style=for-the-badge&logoColor=white" alt="Research Project"/>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=python,anaconda&theme=dark" alt="Tech"/>
 </div>
@@ -257,7 +252,7 @@ class MarufShiab:
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/💻_Web%2FApp_Project-00D9FF?style=for-the-badge&logoColor=white" alt="Web Project"/>
+  <img src="https://img.shields.io/badge/💻_WEB%2FAPP_PROJECT-00D9FF?style=for-the-badge&logoColor=white" alt="Web Project"/>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" alt="Tech"/>
 </div>
@@ -281,7 +276,7 @@ class MarufShiab:
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎯_Data_Science_Project-F8D866?style=for-the-badge&logoColor=black" alt="DS Project"/>
+  <img src="https://img.shields.io/badge/🎯_DATA_SCIENCE_PROJECT-F8D866?style=for-the-badge&logoColor=black" alt="DS Project"/>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=python,anaconda&theme=dark" alt="Tech"/>
 </div>
@@ -305,6 +300,10 @@ class MarufShiab:
 </tr>
 </table>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
 <br/>
 
 <!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
@@ -313,32 +312,16 @@ class MarufShiab:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=500&height=35&lines=📊+My+GitHub+Journey;🔥+Code+Every+Day;🚀+Growing+Consistently" alt="Analytics Header"/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-</div>
-
-<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maruf-shiab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=8A2BE2&text_color=C9D1D9&rank_icon=github"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maruf-shiab&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&text_color=C9D1D9"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=Maruf-shiab&theme=radical&hide_border=true&background=0D1117&stroke=F72585&ring=8A2BE2&fire=FF1493&currStreakLabel=F72585&sideLabels=F72585&dates=C9D1D9" alt="GitHub Streak"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maruf-shiab&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-
-</div>
-
-<div align="center">
+<br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maruf-shiab&custom_title=Maruf%27s%20Contribution%20Graph&bg_color=0D1117&color=F72585&line=8A2BE2&point=C9D1D9&area_color=8A2BE2&area=true&hide_border=true" alt="Contribution Graph"/>
 
@@ -353,7 +336,6 @@ class MarufShiab:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maruf-shiab&theme=radical" alt="Repos Per Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maruf-shiab&theme=radical" alt="Most Commit Language"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maruf-shiab&theme=radical" alt="Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maruf-shiab&theme=radical&utcOffset=6" alt="Productive Time"/>
 
@@ -362,7 +344,7 @@ class MarufShiab:
 
 <br/>
 
-<!-- ═══════════════════ 3D CONTRIBUTION ═══════════════════ -->
+<!-- ═══════════════════ 3D CONTRIBUTIONS ═══════════════════ -->
 
 ## 🌍 Global Contribution Insights
 
@@ -370,9 +352,13 @@ class MarufShiab:
   <img src="https://ssr-contributions-svg.vercel.app/_/Maruf-shiab?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&weeks=50&theme=pink&widget_size=large&format=svg" alt="3D Contributions" width="100%"/>
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
 <br/>
 
-<!-- ═══════════════════ CURRENT FOCUS / ROADMAP ═══════════════════ -->
+<!-- ═══════════════════ ROADMAP ═══════════════════ -->
 
 ## 🎯 Current Goals & Roadmap
 
@@ -448,12 +434,10 @@ graph LR
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maruf-shiab&style=flat-square&color=8A2BE2&label=Total+Profile+Views" alt="Total Views"/>
-  <img src="https://img.shields.io/github/followers/Maruf-shiab?label=Followers&style=flat-square&color=FF1493&logo=github" alt="Followers"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Maruf-shiab&style=flat-square&color=8A2BE2&label=Total+Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/Maruf-shiab?label=Followers&style=flat-square&color=FF1493&logo=github"/>
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!+✨;Let's+explore+AI+together!+🤖;Open+to+collaborations+%26+research!+🔬" alt="Footer Message"/>
 
 </div>
 
