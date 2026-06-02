@@ -1,123 +1,351 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF1493&height=200&section=header&text=Maruf%20Shiab&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-<h1 align="center">Hi 👋, I'm Maruf Shiab</h1>
-<h3 align="center">🎓 3rd-Year Student | 🤖 AI/ML Enthusiast | 🔬 Research Learner</h3>
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║               MARUF SHIAB — GITHUB PROFILE README               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Passionate+about+Artificial+Intelligence+%F0%9F%A4%96;Exploring+Machine+Learning+and+Research+%F0%9F%94%AC;Building+Projects+with+Real-World+Impact+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+<div align="center">
 
----
+<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
 
-## 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,16,20,24,30&height=220&section=header&text=MARUF%20SHIAB&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡%20AI%2FML%20Engineer%20%7C%20Research%20Learner%20%7C%203rd%20Year%20CSE%20⚡&descAlignY=58&descSize=16" width="100%"/>
 
-- 🎓 I'm a **3rd-year student** passionate about **Artificial Intelligence, Machine Learning, and Research**
-- 🤖 Love solving **real-world problems** using **data-driven approaches**
-- 📚 Currently learning and exploring **AI/ML concepts, tools, and technologies**
-- 🔬 Interested in **research and innovation** in AI
-- 💻 Enjoy building projects to turn **ideas into practical solutions**
-- 📈 Constantly improving my skills in **programming, data analysis, and model development**
+<br/>
 
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.facebook.com/maruf.shiab" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/maruf_shiab_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<!-- Visitor Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Maruf-shiab&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Maruf-shiab?label=Followers&style=for-the-badge&color=FF1493&logo=github&logoColor=white" alt="Followers"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 💻 Tech Stack
+</div>
 
-### 🚀 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 
-### 🌐 Web & App Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+<div align="center">
 
-### 🧠 AI / ML / Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-d9ead3?style=for-the-badge&logo=mlflow&logoColor=blue)
+<p>
+  <img src="https://img.shields.io/badge/📍_Location-Dhaka,_Bangladesh-8A2BE2?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🎓_Year-3rd_Year_CSE-FF1493?style=flat-square&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🔬_Focus-AI%2FML_%26_Research-00D9FF?style=flat-square&labelColor=0D1117"/>
+</p>
 
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
+<a href="https://github.com/Maruf-shiab">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Passionate+about+Artificial+Intelligence+%F0%9F%A4%96;Exploring+Machine+Learning+%26+Research+%F0%9F%94%AC;Building+Projects+with+Real-World+Impact+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%93%9A;Turning+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG"/>
+</a>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+</div>
+
+<br/>
+
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+
+```python
+class MarufShiab:
+    def __init__(self):
+        self.name        = "Maruf Shiab"
+        self.role        = "AI/ML Enthusiast & Research Learner"
+        self.location    = "Dhaka, Bangladesh 🇧🇩"
+        self.education   = "3rd Year CSE Student"
+
+        self.interests   = [
+            "Artificial Intelligence 🤖",
+            "Machine Learning 📊",
+            "Deep Learning 🧠",
+            "Research & Innovation 🔬",
+        ]
+
+        self.currently   = {
+            "learning"  : ["PyTorch", "Transformers", "MLOps"],
+            "building"  : "AI-powered real-world projects",
+            "exploring" : "Research opportunities in AI",
+        }
+
+        self.fun_fact    = "I believe data has a story — I just help it speak! 📖"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing 🚀")
+```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+<div align="center">
+
+## ⚡ Tech Stack & Expertise
+
+<a href="https://github.com/Maruf-shiab">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&height=35&lines=💻+Technologies+I+Work+With;🚀+Tools+That+Power+My+Work;🧠+Always+Evolving+My+Stack" alt="Tech Header"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 「 💻 Programming Languages 」
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,kotlin,dart,php,cs&theme=dark" alt="Languages"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 「 🧠 AI / ML / Data Science 」
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda&theme=dark" alt="AI/ML"/>
+</a>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="50" height="50"/>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 「 🌐 Web & App Development 」
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,nodejs,express,nextjs,angular,flutter,laravel,fastapi&theme=dark" alt="Web Dev"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 「 ☁️ Cloud, DevOps & Tools 」
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify,git,github,gitlab,docker,postman,vscode,figma&theme=dark" alt="Cloud & Tools"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 「 🗄️ Databases 」
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" alt="Databases"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- Proficiency Table -->
+<div align="center">
+
+### 「 📊 Proficiency Levels 」
+
+| 🏷️ Category | 🛠️ Technologies | 📈 Level |
+|:---:|:---|:---:|
+| **AI / ML** | TensorFlow · PyTorch · scikit-learn · Keras | ![](https://geps.dev/progress/80) |
+| **Languages** | Python · C++ · Java · JavaScript | ![](https://geps.dev/progress/85) |
+| **Web Dev** | Node.js · Next.js · FastAPI · Laravel | ![](https://geps.dev/progress/75) |
+| **Databases** | MySQL · PostgreSQL · MongoDB | ![](https://geps.dev/progress/75) |
+| **Cloud** | AWS · GCP · Firebase | ![](https://geps.dev/progress/65) |
+| **Data Science** | NumPy · Pandas · Matplotlib · Plotly | ![](https://geps.dev/progress/80) |
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Total_Technologies-50+-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/AI%2FML_Frameworks-10+-FF1493?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Status-Actively_Learning-00FF88?style=for-the-badge&labelColor=0D1117"/>
+</p>
+</div>
+
+<br/>
+
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=🎯+My+Top+Projects;💡+Built+with+Passion+%26+Purpose;🔥+Ideas+into+Reality" alt="Projects Header"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
+
+<table align="center" border="0" cellpadding="20">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🤖_AI%2FML_Project-8A2BE2?style=for-the-badge&logoColor=white" alt="AI Project"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="Tech"/>
+</div>
+
+<br/>
+
+> 🧠 **Your best machine learning or deep learning project** — add description here
+
+<table>
+<tr><td>🔬</td><td>Research-driven approach</td></tr>
+<tr><td>📊</td><td>Real-world dataset</td></tr>
+<tr><td>🎯</td><td>Practical impact</td></tr>
+<tr><td>📈</td><td>Measurable results</td></tr>
+</table>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/View_Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🔬_Research_Project-FF1493?style=for-the-badge&logoColor=white" alt="Research Project"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,anaconda&theme=dark" alt="Tech"/>
+</div>
+
+<br/>
+
+> 📄 **Your research or academic project** — add description and findings here
+
+<table>
+<tr><td>📝</td><td>Academic rigor</td></tr>
+<tr><td>🔍</td><td>Novel insights</td></tr>
+<tr><td>📊</td><td>Data analysis</td></tr>
+<tr><td>🌍</td><td>Real-world relevance</td></tr>
+</table>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/View_Repository-FF1493?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💻_Web%2FApp_Project-00D9FF?style=for-the-badge&logoColor=white" alt="Web Project"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" alt="Tech"/>
+</div>
+
+<br/>
+
+> 🌐 **Your strongest web or app project** — add description here
+
+<table>
+<tr><td>⚡</td><td>Fast & responsive UI</td></tr>
+<tr><td>🔐</td><td>Secure architecture</td></tr>
+<tr><td>🚀</td><td>Production deployed</td></tr>
+<tr><td>👥</td><td>User-centric design</td></tr>
+</table>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯_Data_Science_Project-F8D866?style=for-the-badge&logoColor=black" alt="DS Project"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,anaconda&theme=dark" alt="Tech"/>
+</div>
+
+<br/>
+
+> 📊 **Your data science or analysis project** — add description here
+
+<table>
+<tr><td>📈</td><td>Statistical analysis</td></tr>
+<tr><td>🔮</td><td>Predictive modeling</td></tr>
+<tr><td>🎨</td><td>Rich visualizations</td></tr>
+<tr><td>💡</td><td>Actionable insights</td></tr>
+</table>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/View_Repository-F8D866?style=for-the-badge&logo=github&logoColor=black"/></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maruf-shiab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&rank_icon=github" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maruf-shiab&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" height="180em"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=500&height=35&lines=📊+My+GitHub+Journey;🔥+Code+Every+Day;🚀+Growing+Consistently" alt="Analytics Header"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Maruf-shiab&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=C9D1D9" alt="GitHub Streak Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maruf-shiab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=8A2BE2&text_color=C9D1D9&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maruf-shiab&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&text_color=C9D1D9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Maruf-shiab&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://streak-stats.demolab.com/?user=Maruf-shiab&theme=radical&hide_border=true&background=0D1117&stroke=F72585&ring=8A2BE2&fire=FF1493&currStreakLabel=F72585&sideLabels=F72585&dates=C9D1D9" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maruf-shiab&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9&area_color=F8D866&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Maruf-shiab&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maruf-shiab&custom_title=Maruf%27s%20Contribution%20Graph&bg_color=0D1117&color=F72585&line=8A2BE2&point=C9D1D9&area_color=8A2BE2&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
 <details>
-<summary>📈 Alternative Stats View (Click to Expand)</summary>
+<summary>📈 More Stats (Click to Expand)</summary>
 <br/>
 <div align="center">
 
@@ -132,38 +360,65 @@
 </div>
 </details>
 
----
+<br/>
+
+<!-- ═══════════════════ 3D CONTRIBUTION ═══════════════════ -->
 
 ## 🌍 Global Contribution Insights
 
 <div align="center">
-  <img
-    src="https://ssr-contributions-svg.vercel.app/_/Maruf-shiab?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&weeks=50&theme=pink&widget_size=large&format=svg"
-    alt="3D Contribution Chart"
-    width="100%"
-  />
+  <img src="https://ssr-contributions-svg.vercel.app/_/Maruf-shiab?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&weeks=50&theme=pink&widget_size=large&format=svg" alt="3D Contributions" width="100%"/>
 </div>
 
+<br/>
+
+<!-- ═══════════════════ CURRENT FOCUS / ROADMAP ═══════════════════ -->
+
+## 🎯 Current Goals & Roadmap
+
+```mermaid
+graph LR
+    A[✅ Core ML Foundations] --> B[⏳ Deep Learning]
+    B --> C[⏳ NLP & Transformers]
+    C --> D[🎯 AI Research Paper]
+    A --> E[⏳ MLOps & Deployment]
+    E --> F[🎯 Production AI App]
+    A --> G[⏳ Data Science Projects]
+    G --> H[🎯 Kaggle Competitions]
+```
+
+### 🔥 In Progress
+- 🧠 Deep diving into **Deep Learning** architectures (CNNs, RNNs, Transformers)
+- 🔬 Exploring **research opportunities** in AI/ML
+- 📊 Building hands-on **data science projects** for portfolio
+- 🚀 Learning **MLOps** — model deployment and monitoring
+
+### ✅ Recently Completed
+- 📚 Strengthened foundations in **Python, NumPy, Pandas, Matplotlib**
+- 🤖 Explored **scikit-learn** for classical ML algorithms
+- 🎨 Enhanced GitHub profile with analytics & dynamic widgets
+- 💻 Expanded tech stack to **50+ technologies**
+
+### ✨ Upcoming
+- 📄 Contribute to an **open-source AI/ML project**
+- 🏆 Compete in **Kaggle** challenges
+- 📝 Write **technical blogs** sharing ML learnings
+- 🎓 Pursue **AI research internship** opportunities
+
 ---
 
-## 🏆 Featured Projects
+## 🏆 Highlights
 
-- 🔹 **AI/ML Project** — Add your best machine learning project here
-- 🔹 **Research Project** — Add your research-based or academic project here
-- 🔹 **Web/App Project** — Add your strongest development project here
-
----
-
-## ✍️ Current Focus
-
-- 🤖 Learning **Machine Learning** and **Deep Learning**
-- 🔬 Exploring **AI research opportunities**
-- 💻 Building practical projects for **hands-on experience**
-- 📊 Improving **problem-solving** and **data analysis** skills
+```
+🧠 AI/ML Enthusiast        🔬 Research Oriented
+🎓 3rd Year CSE            💡 Problem Solver
+📊 Data-Driven Thinker     🚀 Fast Learner
+🌍 Open Source Advocate    ☕ Coffee-Powered Coder
+```
 
 ---
 
-## 💭 Random Dev Quote
+## 💭 Dev Quote of the Day
 
 <div align="center">
 
@@ -173,6 +428,33 @@
 
 ---
 
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maruf.shiab)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maruf_shiab_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+<br/>
+
+### 💬 *"In God we trust; all others must bring data."* — W. Edwards Deming
+
+---
+
+⭐️ **If you find my work interesting, drop a star on my repositories!**
+
+**Made with ❤️, lots of ☕, and endless curiosity about AI**
+
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=Maruf-shiab&style=flat-square&color=8A2BE2&label=Total+Profile+Views" alt="Total Views"/>
+  <img src="https://img.shields.io/github/followers/Maruf-shiab?label=Followers&style=flat-square&color=FF1493&logo=github" alt="Followers"/>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!+✨;Let's+explore+AI+together!+🤖;Open+to+collaborations+%26+research!+🔬" alt="Footer Message"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=120&section=footer" width="100%"/>
