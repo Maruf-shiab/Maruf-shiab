@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-- 🎓 I’m a **3rd-year student** passionate about **Artificial Intelligence, Machine Learning, and Research**
+- 🎓 I'm a **3rd-year student** passionate about **Artificial Intelligence, Machine Learning, and Research**
 - 🤖 Love solving **real-world problems** using **data-driven approaches**
 - 📚 Currently learning and exploring **AI/ML concepts, tools, and technologies**
 - 🔬 Interested in **research and innovation** in AI
@@ -89,16 +89,60 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maruf-shiab&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Maruf-shiab&theme=radical&hide_border=false" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maruf-shiab&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Maruf-shiab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&rank_icon=github" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maruf-shiab&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" height="180em"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Maruf-shiab&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=C9D1D9" alt="GitHub Streak Stats"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Maruf-shiab&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maruf-shiab&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9&area_color=F8D866&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+<details>
+<summary>📈 Alternative Stats View (Click to Expand)</summary>
+<br/>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maruf-shiab&theme=radical" alt="Profile Details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maruf-shiab&theme=radical" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maruf-shiab&theme=radical" alt="Most Commit Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maruf-shiab&theme=radical" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maruf-shiab&theme=radical&utcOffset=6" alt="Productive Time"/>
+
+</div>
+</details>
+
+---
+
+## 🌍 Global Contribution Insights
+
+<div align="center">
+  <img
+    src="https://ssr-contributions-svg.vercel.app/_/Maruf-shiab?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&weeks=50&theme=pink&widget_size=large&format=svg"
+    alt="3D Contribution Chart"
+    width="100%"
+  />
+</div>
 
 ---
 
@@ -119,16 +163,16 @@
 
 ---
 
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=120&section=footer"/>
 </p>
-
-<!-- Optional Snake Animation -->
-<!-- Generate from: https://github.com/Platane/snk -->
-<!--
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Maruf-shiab/Maruf-shiab/blob/output/github-contribution-grid-snake.svg)
--->
